@@ -1,0 +1,12 @@
+C:\Users\Desmond\Desktop\C#denemelerim\SiralamaHizTesti\SiralamaHizTesti\bin\Debug\SiralamaHizTesti.exe.config
+C:\Users\Desmond\Desktop\C#denemelerim\SiralamaHizTesti\SiralamaHizTesti\bin\Debug\SiralamaHizTesti.exe
+C:\Users\Desmond\Desktop\C#denemelerim\SiralamaHizTesti\SiralamaHizTesti\bin\Debug\SiralamaHizTesti.pdb
+C:\Users\Desmond\Desktop\C#denemelerim\SiralamaHizTesti\SiralamaHizTesti\obj\Debug\SiralamaHizTesti.csprojAssemblyReference.cache
+C:\Users\Desmond\Desktop\C#denemelerim\SiralamaHizTesti\SiralamaHizTesti\obj\Debug\SiralamaHizTesti.exe
+C:\Users\Desmond\Desktop\C#denemelerim\SiralamaHizTesti\SiralamaHizTesti\obj\Debug\SiralamaHizTesti.pdb
+C:\Users\Desmond\Desktop\Masa Üstü\School\C#denemelerim\SiralamaHizTesti\SiralamaHizTesti\bin\Debug\SiralamaHizTesti.exe.config
+C:\Users\Desmond\Desktop\Masa Üstü\School\C#denemelerim\SiralamaHizTesti\SiralamaHizTesti\bin\Debug\SiralamaHizTesti.exe
+C:\Users\Desmond\Desktop\Masa Üstü\School\C#denemelerim\SiralamaHizTesti\SiralamaHizTesti\bin\Debug\SiralamaHizTesti.pdb
+C:\Users\Desmond\Desktop\Masa Üstü\School\C#denemelerim\SiralamaHizTesti\SiralamaHizTesti\obj\Debug\SiralamaHizTesti.csprojAssemblyReference.cache
+C:\Users\Desmond\Desktop\Masa Üstü\School\C#denemelerim\SiralamaHizTesti\SiralamaHizTesti\obj\Debug\SiralamaHizTesti.exe
+C:\Users\Desmond\Desktop\Masa Üstü\School\C#denemelerim\SiralamaHizTesti\SiralamaHizTesti\obj\Debug\SiralamaHizTesti.pdb
